@@ -1,0 +1,20 @@
+body {
+  background: black;
+  text-align: center;
+}
+h1 {
+  font-size: 100px;
+  display: inline-flex;
+  margin: 35vh 0 0;
+  padding: 0.5em 0.7em;
+  border-radius: 5%;
+  border: 1px solid greenyellow;
+  color: chartreuse;
+  box-shadow: inset 0px 0px 20px 6px;
+}
+h2 {
+  font-size: 50px;
+  display: block;
+  margin: 0;
+  color: chartreuse;
+}
